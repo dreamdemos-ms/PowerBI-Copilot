@@ -1,0 +1,6 @@
+let
+    Source = Csv.Document(Web.Contents("https://raw.githubusercontent.com/dreamdemos-ms/PowerBI-Copilot/main/CampaignResponses.csv"),[Delimiter=",", Columns=5, Encoding=65001, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Month", type date}, {"Customer_Generation", type text}, {"Responses", Int64.Type}, {"SemanticModel_key", Int64.Type}, {"Campaigns_key", Int64.Type}})
+in
+    #"Changed Type"
