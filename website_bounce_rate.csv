@@ -1,0 +1,318 @@
+﻿CustomerGeneration,CustomerSentiment,DeviceType,ProductAvailability,ProductCategory,ProductMatch,Number_of_times_products_searches_did_not_matched,total_number_of_time_products_searches,Website_Bounce_rate,Website_visitors,SemanticModel_key
+Millennials,Happy,Tablet,No,Accessories,No,2682,4914,0.39,10978,3
+Millennials,Happy,Tablet,Yes,Accessories,Yes,2682,4914,0.14,10978,3
+Millennials,Happy,Tablet,Yes,Accessories,Yes,2682,4914,0.17,10978,3
+Millennials,Happy,Tablet,Yes,Accessories,Yes,2682,4914,0.74,10978,3
+Millennials,Happy,Tablet,Yes,Accessories,Yes,2682,4914,0.76,10978,3
+Millennials,Happy,Tablet,Yes,Accessories,Yes,2682,4914,0.78,4125,3
+Millennials,Happy,Tablet,Yes,Adventure Sports,Yes,2682,4914,0.41,10978,3
+Millennials,Happy,Tablet,Yes,Adventure Sports,Yes,2682,4914,0.76,10978,3
+Millennials,Happy,Tablet,Yes,Adventure Sports,Yes,2682,4914,0.78,14563,3
+Millennials,Happy,Tablet,Yes,Adventure Sports,Yes,2682,4914,0.8,10978,3
+Millennials,Happy,Tablet,Yes,Beach Products,Yes,2682,4914,0.34,14512,3
+Millennials,Happy,Tablet,Yes,Beach Products,Yes,2682,4914,0.74,10978,3
+Millennials,Happy,Tablet,Yes,Beach Products,Yes,2682,4914,0.75,10978,3
+Millennials,Happy,Tablet,Yes,Beach Products,Yes,2682,4914,0.76,10978,3
+Millennials,Happy,Tablet,Yes,Beach Products,Yes,2682,4914,0.79,10978,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.22,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.65,3987,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.65,4112,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.66,3374,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.66,3394,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.66,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.74,3374,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.78,3394,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.78,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.79,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.82,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,4914,0.83,15476,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,Yes,2682,4914,0.74,3345,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,Yes,2682,4914,0.79,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.3,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.64,3374,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.74,4142,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.74,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.78,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.79,3374,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.81,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.84,4142,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.87,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,4914,0.88,3641,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,Yes,2682,4914,0.6,15476,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,Yes,2682,4914,0.74,3614,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.45,4141,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.45,4153,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.6,4141,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.71,15476,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.74,3451,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.74,4751,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,4914,0.74,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.65,4147,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.66,3654,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.74,4147,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.74,4201,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.74,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.75,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.76,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.78,4201,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.78,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.79,4003,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.81,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,4914,0.88,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,Yes,2682,4914,0.64,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,Yes,2682,4914,0.79,3614,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.64,4003,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.71,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.74,3374,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.74,4001,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.74,4125,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.74,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.84,4125,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.84,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,4914,0.88,4003,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,2682,4914,0.45,15476,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,2682,4914,0.6,3394,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,4914,0.78,16325,3
+Millennials,Not Happy,Tablet,No,Accessories,No,2682,4914,0.65,10978,3
+Millennials,Not Happy,Tablet,No,Accessories,No,2682,4914,0.74,10978,3
+Millennials,Not Happy,Tablet,No,Accessories,Yes,2682,4914,0.65,15420,3
+Millennials,Not Happy,Tablet,No,Accessories,Yes,2682,4914,0.74,4001,3
+Millennials,Not Happy,Tablet,No,Adventure Sports,No,2682,4914,0.22,10978,3
+Millennials,Not Happy,Tablet,No,Adventure Sports,Yes,2682,4914,0.75,10978,3
+Millennials,Not Happy,Tablet,No,Adventure Sports,Yes,2682,4914,0.78,4141,3
+Millennials,Not Happy,Tablet,No,Beach Products,No,2682,4914,0.39,4001,3
+Millennials,Not Happy,Tablet,No,Beach Products,No,2682,4914,0.74,4147,3
+Millennials,Not Happy,Tablet,No,Beach Products,Yes,2682,4914,0.38,10978,3
+Millennials,Not Happy,Tablet,No,Beach Products,Yes,2682,4914,0.78,4201,3
+Millennials,Not Happy,Tablet,Yes,Accessories,No,2682,4914,0.79,12431,3
+Millennials,Happy,Laptop,No,Accessories,No,2682,1874,0.33,3654,3
+Millennials,Happy,Laptop,No,Adventure Sports,No,2682,1741,0.21,3678,3
+Millennials,Happy,Laptop,No,Beach Products,Yes,2682,1745,0.13,3987,3
+Millennials,Happy,Laptop,No,Beach Products,Yes,2682,1745,0.46,3661,3
+Millennials,Happy,Laptop,No,Beach Products,Yes,2682,1746,0.41,3345,3
+Millennials,Happy,Laptop,Yes,Accessories,Yes,2682,1444,0.65,3374,3
+Millennials,Happy,Laptop,Yes,Accessories,Yes,2682,1456,0.75,3359,3
+Millennials,Happy,Laptop,Yes,Accessories,Yes,2682,1492,0.41,3641,3
+Millennials,Happy,Laptop,Yes,Accessories,Yes,2682,1987,0.36,5619,3
+Millennials,Happy,Laptop,Yes,Accessories,Yes,2682,2214,0.78,3641,3
+Millennials,Happy,Laptop,Yes,Adventure Sports,Yes,2682,1258,0.65,3657,3
+Millennials,Happy,Laptop,Yes,Adventure Sports,Yes,2682,1365,0.13,4141,3
+Millennials,Happy,Laptop,Yes,Adventure Sports,Yes,2682,1698,0.366,3654,3
+Millennials,Happy,Laptop,Yes,Adventure Sports,Yes,2682,2265,0.31,3451,3
+Millennials,Happy,Laptop,Yes,Adventure Sports,Yes,2682,2653,0.14,3451,3
+Millennials,Happy,Laptop,Yes,Beach Products,Yes,2682,1456,0.46,4201,3
+Millennials,Happy,Laptop,Yes,Beach Products,Yes,2682,1645,0.43,4251,3
+Millennials,Happy,Laptop,Yes,Beach Products,Yes,2682,1684,0.21,3678,3
+Millennials,Happy,Laptop,Yes,Beach Products,Yes,2682,2294,0.33,3614,3
+Millennials,Happy,Laptop,Yes,Beach Products,Yes,2682,2546,0.42,3614,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,1365,0.13,3256,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,1458,0.38,5619,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,1475,0.36,5619,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,1742,0.35,3614,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,1987,0.68,4125,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,2365,0.39,5619,3
+Millennials,Not Happy,Laptop,No,Accessories,Yes,2682,2541,0.14,5619,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,1254,0.41,3698,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,1266,0.13,3654,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,1354,0.314,3661,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,1555,0.36,3654,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,1569,0.36,3238,3
+Millennials,Not Happy,Laptop,No,Adventure Sports,Yes,2682,2136,0.74,3661,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,1154,0.13,3335,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,1226,0.14,3987,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,1258,0.13,3678,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,1452,0.13,3325,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,1874,0.32,3374,3
+Millennials,Not Happy,Laptop,No,Beach Products,Yes,2682,2138,0.74,3987,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,1456,0.35,4321,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,1722,0.6,3641,3
+Millennials,Not Happy,Mobile Phone,No,Accessories,No,2682,1748,0.65,4003,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,1452,0.31,4001,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,1547,0.13,3451,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,1748,0.55,3236,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,2682,2147,0.14,3654,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,1354,0.84,3274,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,1457,0.45,3614,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,1745,0.74,3654,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,2682,2131,0.74,3678,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,1174,0.47,3256,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,1453,0.41,3345,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,1987,0.13,3394,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,1987,0.75,3695,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,No,2682,2139,0.74,3345,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,1365,0.74,3214,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,1365,0.78,4142,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,1457,0.43,3614,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,1469,0.35,5619,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,2682,2146,0.88,3614,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,1425,0.32,4147,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,1478,0.64,4153,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,1759,0.78,3661,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,2236,0.35,3654,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,No,2682,2325,0.35,3654,3
+Baby Boomers,Happy,Laptop,No,Accessories,Yes,415,420,0.1571,4153,3
+Baby Boomers,Happy,Laptop,Yes,Accessories,Yes,198,420,0.1571,14415,3
+Baby Boomers,Happy,Mobile Phone,No,Accessories,No,66,420,0.1571,14153,3
+Baby Boomers,Happy,Mobile Phone,No,Accessories,No,66,420,0.1571,14415,3
+Baby Boomers,Happy,Mobile Phone,No,Accessories,Yes,66,420,0.1571,1259,3
+Baby Boomers,Happy,Mobile Phone,No,Accessories,Yes,66,420,0.1571,14415,3
+Baby Boomers,Happy,Mobile Phone,No,Adventure Sports,Yes,66,420,0.1571,1259,3
+Baby Boomers,Happy,Mobile Phone,No,Beach Products,No,66,420,0.1571,14153,3
+Baby Boomers,Happy,Mobile Phone,Yes,Accessories,Yes,66,420,0.1571,1259,3
+Baby Boomers,Happy,Mobile Phone,Yes,Accessories,Yes,66,420,0.1571,14415,3
+Baby Boomers,Happy,Mobile Phone,Yes,Adventure Sports,Yes,66,420,0.1571,1259,3
+Baby Boomers,Happy,Mobile Phone,Yes,Adventure Sports,Yes,66,420,0.1571,11259,3
+Baby Boomers,Happy,Mobile Phone,Yes,Kitchen,Yes,66,420,0.1571,4153,3
+Baby Boomers,Happy,Mobile Phone,Yes,Kitchen,Yes,66,420,0.1571,11259,3
+Baby Boomers,Happy,Mobile Phone,Yes,Kitchen,Yes,66,420,0.1571,14153,3
+Baby Boomers,Happy,Tablet,No,Accessories,Yes,66,420,0.1571,4153,3
+Baby Boomers,Happy,Tablet,No,Kitchen,No,66,420,0.1571,4415,3
+Baby Boomers,Happy,Tablet,Yes,Accessories,Yes,66,420,0.1571,4415,3
+Baby Boomers,Happy,Tablet,Yes,Kitchen,Yes,66,420,0.1571,4153,3
+Baby Boomers,Happy,Tablet,Yes,Kitchen,Yes,66,420,0.1571,11259,3
+Baby Boomers,Happy,Tablet,Yes,Kitchen,Yes,66,420,0.1571,14415,3
+Baby Boomers,Not Happy,Mobile Phone,No,Kitchen,No,66,420,0.1571,4153,3
+Baby Boomers,Not Happy,Mobile Phone,Yes,Accessories,Yes,66,420,0.1571,1259,3
+Baby Boomers,Not Happy,Mobile Phone,Yes,Accessories,Yes,66,420,0.1571,4415,3
+Baby Boomers,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,66,420,0.1571,1259,3
+Baby Boomers,Not Happy,Mobile Phone,Yes,Kitchen,Yes,66,420,0.1571,11259,3
+Baby Boomers,Not Happy,Tablet,No,Accessories,No,66,420,0.14,11259,3
+Baby Boomers,Not Happy,Tablet,No,Accessories,No,66,420,0.1571,4153,3
+Gen X,Happy,Mobile Phone,Yes,Accessories,Yes,12,18,0.12,25619,3
+Gen X,Happy,Mobile Phone,Yes,Beach Products,Yes,12,18,0.21,52619,3
+Gen X,Happy,Tablet,Yes,Beach Products,Yes,12,18,0.16,35619,3
+Gen X,Not Happy,Laptop,No,Beach Products,No,12,18,0.13,15619,3
+Gen X,Not Happy,Laptop,No,Beach Products,No,12,18,0.45,15619,3
+Gen Z,Happy,Laptop,No,Adventure Sports,No,320,2210,0.34,5619,3
+Gen Z,Happy,Laptop,No,Kitchen,No,310,2341,0.36,5619,3
+Gen Z,Happy,Laptop,Yes,Accessories,Yes,365,2365,0.31,3654,3
+Gen Z,Happy,Laptop,Yes,Kitchen,No,321,2874,0.14,3661,3
+The Silent Generation,Happy,Mobile Phone,Yes,Accessories,Yes,,42,0.171,22369,3
+The Silent Generation,Happy,Mobile Phone,Yes,Accessories,Yes,,42,0.1849,12369,3
+The Silent Generation,Happy,Mobile Phone,Yes,Accessories,Yes,,42,0.2127,12369,3
+The Silent Generation,Happy,Tablet,Yes,Accessories,Yes,,42,0.2266,22369,3
+The Silent Generation,Happy,Tablet,Yes,Beach Products,Yes,,42,0.1988,22369,3
+The Silent Generation,Not Happy,Laptop,Yes,Accessories,No,12,42,0.171,14236,3
+The Silent Generation,Not Happy,Mobile Phone,Yes,Accessories,No,,42,0.2127,12369,3
+The Silent Generation,Not Happy,Tablet,Yes,Accessories,No,,42,0.1849,12369,3
+Gen Z,Happy,Laptop,No,Accessories,No,283,1902,0.21,4125,3
+Gen Z,Happy,Laptop,No,Accessories,Yes,222,1902,0.13,5619,3
+Gen Z,Happy,Laptop,No,Accessories,Yes,289,1902,0.14,5619,3
+Gen Z,Happy,Laptop,No,Adventure Sports,No,202,1902,0.19,3654,3
+Gen Z,Happy,Laptop,No,Adventure Sports,No,210,1902,0.14,3654,3
+Gen Z,Happy,Laptop,No,Adventure Sports,Yes,218,1902,0.23,4001,3
+Gen Z,Happy,Laptop,No,Kitchen,No,217,1902,0.21,5619,3
+Gen Z,Happy,Laptop,No,Kitchen,No,236,1902,0.12,3661,3
+Gen Z,Happy,Laptop,No,Kitchen,No,254,1902,0.16,3614,3
+Gen Z,Happy,Laptop,No,Kitchen,Yes,279,1902,0.25,5619,3
+Gen Z,Happy,Laptop,Yes,Accessories,No,253,1902,0.21,3678,3
+Gen Z,Happy,Laptop,Yes,Accessories,Yes,254,1902,0.23,3987,3
+Gen Z,Happy,Laptop,Yes,Accessories,Yes,297,1902,0.26,3654,3
+Gen Z,Happy,Laptop,Yes,Beach Products,Yes,145,1902,0.14,4003,3
+Gen Z,Happy,Laptop,Yes,Kitchen,No,125,1902,0.27,3661,3
+Gen Z,Happy,Laptop,Yes,Kitchen,No,251,1902,0.21,3345,3
+Gen Z,Happy,Laptop,Yes,Kitchen,No,287,1902,0.17,3374,3
+Gen Z,Not Happy,Laptop,No,Accessories,Yes,153,1902,0.23,5619,3
+Gen Z,Not Happy,Laptop,No,Accessories,Yes,333,1902,0.22,5619,3
+Gen Z,Not Happy,Laptop,No,Accessories,Yes,355,1902,0.14,3451,3
+Gen Z,Not Happy,Laptop,No,Adventure Sports,Yes,195,1902,0.21,5619,3
+Gen Z,Not Happy,Laptop,No,Adventure Sports,Yes,321,1902,0.25,5619,3
+Gen Z,Not Happy,Laptop,No,Beach Products,Yes,286,1902,0.23,3374,3
+Gen Z,Not Happy,Laptop,No,Beach Products,Yes,356,1902,0.23,3654,3
+Gen Z,Not Happy,Laptop,Yes,Accessories,Yes,111,1902,0.2,3654,3
+Gen Z,Not Happy,Laptop,Yes,Accessories,Yes,365,1902,0.26,3661,3
+Gen Z,Not Happy,Laptop,Yes,Accessories,Yes,389,1902,0.19,3374,3
+Gen Z,Not Happy,Laptop,Yes,Adventure Sports,Yes,143,1902,0.23,3661,3
+Gen Z,Not Happy,Laptop,Yes,Adventure Sports,Yes,333,1902,0.25,3678,3
+Gen Z,Not Happy,Laptop,Yes,Adventure Sports,Yes,346,1902,0.21,3394,3
+Gen Z,Not Happy,Laptop,Yes,Beach Products,Yes,146,1902,0.25,3678,3
+Gen Z,Not Happy,Laptop,Yes,Beach Products,Yes,265,1902,0.28,4142,3
+Gen Z,Not Happy,Laptop,Yes,Beach Products,Yes,365,1902,0.23,3374,3
+Gen Z,Not Happy,Laptop,Yes,Beach Products,Yes,374,1902,0.27,3987,3
+Gen Z,Not Happy,Mobile Phone,No,Adventure Sports,Yes,412,1902,0.15,3654,3
+Gen Z,Not Happy,Mobile Phone,No,Beach Products,Yes,338,1902,0.18,3614,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,No,839,1902,0.6,4142,3
+Millennials,Not Happy,Mobile Phone,No,Adventure Sports,Yes,839,1902,0.74,4141,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,No,839,1902,0.78,4147,3
+Millennials,Not Happy,Mobile Phone,No,Beach Products,Yes,839,1902,0.64,4201,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.66,3987,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.84,4003,3
+Millennials,Not Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.88,5856,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,No,839,1902,0.45,4125,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.65,4001,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.74,5456,3
+Millennials,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.79,3345,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,Yes,839,1902,0.74,3641,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,Yes,839,1902,0.74,5542,3
+Millennials,Not Happy,Mobile Phone,Yes,Beach Products,Yes,839,1902,0.74,15000,3
+Gen Z,Happy,Mobile Phone,No,Accessories,No,839,1902,0.15,4125,3
+Gen Z,Happy,Mobile Phone,No,Accessories,No,839,1902,0.19,3394,3
+Gen Z,Happy,Mobile Phone,No,Accessories,No,839,1902,0.23,3641,3
+Gen Z,Happy,Mobile Phone,No,Accessories,No,839,1902,0.26,3678,3
+Gen Z,Happy,Mobile Phone,No,Adventure Sports,No,839,1902,0.1,3374,3
+Gen Z,Happy,Mobile Phone,No,Adventure Sports,No,839,1902,0.16,4001,3
+Gen Z,Happy,Mobile Phone,No,Adventure Sports,No,839,1902,0.23,3987,3
+Gen Z,Happy,Mobile Phone,No,Adventure Sports,No,839,1902,0.24,3614,3
+Gen Z,Happy,Mobile Phone,No,Adventure Sports,Yes,839,1902,0.13,3678,3
+Gen Z,Happy,Mobile Phone,No,Beach Products,Yes,839,1902,0.17,4578,3
+Gen Z,Happy,Mobile Phone,No,Beach Products,Yes,839,1902,0.19,4621,3
+Gen Z,Happy,Mobile Phone,No,Beach Products,Yes,839,1902,0.21,7415,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,No,839,1902,0.23,4142,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,No,839,1902,0.26,3451,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,No,839,1902,0.29,3345,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,Yes,839,1902,0.21,3641,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,Yes,839,1902,0.24,3654,3
+Gen Z,Happy,Mobile Phone,No,Kitchen,Yes,839,1902,0.24,3987,3
+Gen Z,Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.13,3652,3
+Gen Z,Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.21,4141,3
+Gen Z,Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.23,3614,3
+Gen Z,Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.27,3614,3
+Gen Z,Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.14,2214,3
+Gen Z,Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.17,3345,3
+Gen Z,Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.21,3451,3
+Gen Z,Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.22,4147,3
+Gen Z,Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.29,3374,3
+Gen Z,Happy,Mobile Phone,Yes,Beach Products,No,839,1902,0.13,6556,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,No,839,1902,0.21,3394,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,No,839,1902,0.23,4201,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,No,839,1902,0.26,3654,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,Yes,839,1902,0.14,3614,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,Yes,839,1902,0.17,4003,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,Yes,839,1902,0.19,3641,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,Yes,839,1902,0.23,3614,3
+Gen Z,Happy,Mobile Phone,Yes,Kitchen,Yes,839,1902,0.24,3374,3
+Gen Z,Happy,Tablet,No,Accessories,No,839,1902,0.21,4142,3
+Gen Z,Happy,Tablet,No,Accessories,No,839,1902,0.46,3374,3
+Gen Z,Happy,Tablet,No,Accessories,Yes,839,1902,0.24,4125,3
+Gen Z,Happy,Tablet,No,Adventure Sports,No,839,1902,0.13,3394,3
+Gen Z,Happy,Tablet,No,Adventure Sports,No,839,1902,0.23,4141,3
+Gen Z,Happy,Tablet,No,Adventure Sports,Yes,839,1902,0.14,3374,3
+Gen Z,Happy,Tablet,No,Beach Products,No,839,1902,0.17,7458,3
+Gen Z,Happy,Tablet,No,Beach Products,No,839,1902,0.25,4147,3
+Gen Z,Happy,Tablet,No,Kitchen,No,839,1902,0.13,3451,3
+Gen Z,Happy,Tablet,No,Kitchen,No,839,1902,0.43,4142,3
+Gen Z,Happy,Tablet,No,Kitchen,Yes,839,1902,0.23,4001,3
+Gen Z,Happy,Tablet,Yes,Accessories,Yes,839,1902,0.2,4201,3
+Gen Z,Happy,Tablet,Yes,Accessories,Yes,839,1902,0.46,4141,3
+Gen Z,Happy,Tablet,Yes,Adventure Sports,Yes,839,1902,0.14,4147,3
+Gen Z,Happy,Tablet,Yes,Adventure Sports,Yes,839,1902,0.48,4003,3
+Gen Z,Happy,Tablet,Yes,Beach Products,No,839,1902,0.13,7104,3
+Gen Z,Happy,Tablet,Yes,Beach Products,Yes,839,1902,0.41,4201,3
+Gen Z,Happy,Tablet,Yes,Beach Products,Yes,839,1902,0.47,7730,3
+Gen Z,Happy,Tablet,Yes,Kitchen,Yes,839,1902,0.26,4154,3
+Gen Z,Not Happy,Mobile Phone,No,Adventure Sports,Yes,839,1902,0.23,3345,3
+Gen Z,Not Happy,Mobile Phone,No,Beach Products,Yes,839,1902,0.25,3641,3
+Gen Z,Not Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.24,3614,3
+Gen Z,Not Happy,Mobile Phone,Yes,Accessories,Yes,839,1902,0.29,4141,3
+Gen Z,Not Happy,Mobile Phone,Yes,Adventure Sports,No,839,1902,0.21,4147,3
+Gen Z,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.23,3451,3
+Gen Z,Not Happy,Mobile Phone,Yes,Adventure Sports,Yes,839,1902,0.24,4201,3
+Gen Z,Not Happy,Mobile Phone,Yes,Beach Products,No,839,1902,0.23,3654,3
+Gen Z,Not Happy,Mobile Phone,Yes,Beach Products,No,839,1902,0.25,4003,3
+Gen Z,Not Happy,Mobile Phone,Yes,Beach Products,Yes,839,1902,0.22,4125,3
+Gen Z,Not Happy,Mobile Phone,Yes,Beach Products,Yes,839,1902,0.25,3614,3
+Gen Z,Not Happy,Tablet,Yes,Accessories,Yes,839,1902,0.16,4001,3
+Gen Z,Not Happy,Tablet,Yes,Adventure Sports,Yes,839,1902,0.12,3374,3
+Gen Z,Not Happy,Tablet,Yes,Beach Products,Yes,839,1902,0.1,3394,3
+Gen Z,Not Happy,Tablet,Yes,Beach Products,Yes,839,1902,0.2,3614,3
+Gen Z,Not Happy,Tablet,Yes,Beach Products,Yes,839,1902,0.41,6541,3

@@ -1,0 +1,6 @@
+Month,Reason,Water_Usage_hl_h,Initiative_key,Water_consumption_level,Overall_Equipment_Efficiency_of_pumps,Overall_Equipment_Efficiency
+"Thursday, May 23, 2024",In efficient water pumps,5,1,High,Low,0.75
+"Tuesday, April 23, 2024",In efficient water pumps,4,2,High,Low,0.8
+"Saturday, March 23, 2024",Pump Efficiency Decreasing,4,3,Medium,Medium,0.85
+"Friday, February 23, 2024",Pumpt Efficiency is good,4,4,Low,Good,0.88
+"Tuesday, January 23, 2024",Pumpt Efficiency is good,4,5,Low,Good,0.9

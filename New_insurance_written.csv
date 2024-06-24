@@ -1,0 +1,11 @@
+﻿Date,CompaniesClosed,PopulationMigration,InsuranceWrittenTarget,RecommendedTargets,Migration_from_city,Company_closure_reasons_impacting_migration,InsuranceWrittenActual,SemanticModel_key
+"Friday, December 1, 2023",15,111500,1354000,Decrease Insurance Written Target,Sur Datum,Company Closure due to water shortage,60000,2
+"Wednesday, November 1, 2023",11,91200,1152000,Decrease Insurance Written Target,Sur Datum,Company Closure due to water shortage,42000,2
+"Friday, December 1, 2023",3,1200,100000,Increase Insurance Written Target,London,Company Closure due to water shortage,41000,2
+"Wednesday, November 1, 2023",2,1000,100000,Increase Insurance Written Target,London,Weather conditions,59000,2
+"Friday, December 1, 2023",4,1000,800000,Increase Insurance Written Target,New York City,Dependants relocation,663000,2
+"Friday, December 1, 2023",1,800,600000,Increase Insurance Written Target,San Diego,Living costs,564000,2
+"Wednesday, November 1, 2023",3,700,900000,Increase Insurance Written Target,New York City,Company Closure due to water shortage,771000,2
+"Friday, December 1, 2023",1,600,500000,Increase Insurance Written Target,Tanglat,Lack of services,467000,2
+"Wednesday, November 1, 2023",1,500,800000,Increase Insurance Written Target,San Diego,Dependants relocation,681000,2
+"Wednesday, November 1, 2023",0,300,700000,Increase Insurance Written Target,Tanglat,Living costs,620000,2
